@@ -4,15 +4,19 @@ Curated papers, articles, and blogs on **data science & machine learning in prod
 
 **Table of Contents**
 
-1. [Data Quality](#data-quality)
-2. [Data Engineering](#data-engineering)
-3. [Data Discovery](#data-discovery)
-4. [Feature Stores](#feature-stores)
-5. [Classification](#classification)
-6. [Regression](#regression)
-7. [Forecasting](#forecasting)
-8. [Recommendation](#recommendation)
-9. [Search & Ranking](#search--ranking)
+Revised:
+1. [Recommendation](#recommendation)
+2. [MLOps](#mlops)
+
+Original:
+3. [Search & Ranking](#search--ranking)
+3. [Data Quality](#data-quality)
+4. [Data Engineering](#data-engineering)
+5. [Data Discovery](#data-discovery)
+6. [Feature Stores](#feature-stores)
+7. [Classification](#classification)
+8. [Regression](#regression)
+9. [Forecasting](#forecasting)
 10. [Embeddings](#embeddings)
 11. [Natural Language Processing](#natural-language-processing)
 12. [Sequence Modelling](#sequence-modelling)
@@ -35,6 +39,10 @@ Curated papers, articles, and blogs on **data science & machine learning in prod
 29. [Practices](#practices)
 30. [Team Structure](#team-structure)
 31. [Fails](#fails)
+
+## Recommendation
+1. [Homepage Recommendation with Exploitation and Exploration](https://careersatdoordash.com/blog/homepage-recommendation-with-exploitation-and-exploration/) `DoorDash` `2022`
+
 
 ## Data Quality
 1. [Reliable and Scalable Data Ingestion at Airbnb](https://www.slideshare.net/HadoopSummit/reliable-and-scalable-data-ingestion-at-airbnb-63920989) `Airbnb` `2016`
@@ -238,7 +246,6 @@ Curated papers, articles, and blogs on **data science & machine learning in prod
 79. [Evolving DoorDash’s Substitution Recommendations Algorithm](https://doordash.engineering/2022/09/08/evolving-doordashs-substitution-recommendations-algorithm/) `DoorDash` `2022`
 80. [Homepage Recommendation with Exploitation and Exploration](https://doordash.engineering/2022/10/05/homepage-recommendation-with-exploitation-and-exploration/) `DoorDash` `2022`
 81. [GPU-accelerated ML Inference at Pinterest](https://medium.com/@Pinterest_Engineering/gpu-accelerated-ml-inference-at-pinterest-ad1b6a03a16d) `Pinterest` `2022`
-82. [Addressing Confounding Feature Issue for Causal Recommendation](https://arxiv.org/abs/2205.06532) ([Paper](https://arxiv.org/pdf/2205.06532.pdf)) `Tencent` `2022`
 
 
 ## Search & Ranking
