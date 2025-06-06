@@ -1,18 +1,6 @@
-# applied-ml
+# Applied ML Reading List
 Curated papers, articles, and blogs on **data science & machine learning in production**. ⚙️
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md) [![Summaries](https://img.shields.io/badge/summaries-in%20tweets-%2300acee.svg?style=flat)](https://twitter.com/eugeneyan/status/1350509546133811200) ![HitCount](http://hits.dwyl.com/eugeneyan/applied-ml.svg)
-
-Figuring out how to implement your ML project? Learn how other organizations did it:
-
-- **How** the problem is framed 🔎(e.g., personalization as recsys vs. search vs. sequences)
-- **What** machine learning techniques worked ✅ (and sometimes, what didn't ❌)
-- **Why** it works, the science behind it with research, literature, and references 📂
-- **What** real-world results were achieved (so you can better assess ROI ⏰💰📈)
-
-P.S., Want a summary of ML advancements? 👉[`ml-surveys`](https://github.com/eugeneyan/ml-surveys)
-
-P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](https://applyingml.com)
 
 **Table of Contents**
 
@@ -658,6 +646,3 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 6. More in [awful-ai](https://github.com/daviddao/awful-ai)
 7. [AI Incident Database](https://incidentdatabase.ai/) `Partnership on AI` `2022`
 
-<br>
-
-**P.S., Want a summary of ML advancements?** Get up to speed with survey papers 👉[`ml-surveys`](https://github.com/eugeneyan/ml-surveys)
