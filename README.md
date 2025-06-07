@@ -4,11 +4,9 @@ Curated papers, articles, and blogs on **data science & machine learning in prod
 
 **Table of Contents**
 
-Revised:
 1. [Recommendation](#recommendation)
 2. [MLOps](#mlops)
 
-Original:
 3. [Search & Ranking](#search--ranking)
 3. [Data Quality](#data-quality)
 4. [Data Engineering](#data-engineering)
@@ -40,9 +38,14 @@ Original:
 30. [Team Structure](#team-structure)
 31. [Fails](#fails)
 
+## MlOps
+1. [Unified end-to-end machine learning infrastructure to generate recommendations](https://slack.engineering/recommend-api/) `Slack` `2022`
+
 ## Recommendation
 1. [Homepage Recommendation with Exploitation and Exploration](https://careersatdoordash.com/blog/homepage-recommendation-with-exploitation-and-exploration/) `DoorDash` `2022`
-
+2. [DLRM: An advanced, open source deep learning recommendation model](https://ai.meta.com/blog/dlrm-an-advanced-open-source-deep-learning-recommendation-model/) `Meta` `2019`
+3. [Evolving DoorDash’s Substitution Recommendations Algorithm](https://careersatdoordash.com/blog/evolving-doordashs-substitution-recommendations-algorithm/) `DoorDash` `2022`
+4. [Personalized Complementary Product Recommendation](https://assets.amazon.science/6c/d9/a0ec3eda4f0fb4312ce0ada41771/personalized-complementary-product-recommendation.pdf) `Amazon` `2022`
 
 ## Data Quality
 1. [Reliable and Scalable Data Ingestion at Airbnb](https://www.slideshare.net/HadoopSummit/reliable-and-scalable-data-ingestion-at-airbnb-63920989) `Airbnb` `2016`
